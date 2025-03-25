@@ -33,7 +33,7 @@ Se quiser rodar o script e gerar a base novamente:
    ```bash
    python gerar_base.py
    
- ## 🌐 Projetos Web     
+ ## 🌐 Projetos Web 
  📌 **Tecnologias:** HTML, CSS, JavaScript  
 📌 **Descrição:** Landing page responsiva para apresentação de uma empresa.  
 🔗 **[Repositório no GitHub](https://github.com/Firstaces/AnimacoesEducativas.git)**
