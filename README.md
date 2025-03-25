@@ -29,4 +29,11 @@ Se quiser rodar o script e gerar a base novamente:
 1. Instale as bibliotecas necessárias:  
    ```bash
    pip install pandas numpy
+2. Execute o script Python:   
+  ```bash
 python gerar_base.py
+
+
+📩 Contato
+📧 E-mail: andreia33.ferreira@yahoo.com.br
+💼 LinkedIn: https://www.linkedin.com/in/andreiaaferreira
