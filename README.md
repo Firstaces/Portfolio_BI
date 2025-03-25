@@ -34,9 +34,11 @@ Se quiser rodar o script e gerar a base novamente:
    ```bash
    pip install pandas numpy
 2. Execute o script Python:   
-  ```bash
-python gerar_base.py
-
-
-
+   ```bash
+   python gerar_base.py
+   
+ ## 🌐 Projetos Web     
+ 📌 **Tecnologias:** HTML, CSS, JavaScript  
+📌 **Descrição:** Landing page responsiva para apresentação de uma empresa.  
+🔗 **[Repositório no GitHub](https://github.com/Firstaces/animacaoeseducativas)**  
 
