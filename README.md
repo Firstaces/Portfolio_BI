@@ -36,7 +36,7 @@ Se quiser rodar o script e gerar a base novamente:
  ## 🌐 Projetos Web     
  📌 **Tecnologias:** HTML, CSS, JavaScript  
 📌 **Descrição:** Landing page responsiva para apresentação de uma empresa.  
-🔗 **[Repositório no GitHub]((https://github.com/Firstaces/AnimacoesEducativas.git))**  
+🔗 **[Repositório no GitHub](https://github.com/Firstaces/AnimacoesEducativas.git)**
 
 ## 📩 Contato
 📧 E-mail: andreia33.ferreira@yahoo.com.br
