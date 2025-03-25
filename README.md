@@ -22,7 +22,11 @@ Os dados foram gerados **ficticiamente** usando um script Python.
 - `Painel.pbix` → Arquivo do Power BI  
 - `Painel.png` → Print do dashboard  
 - `gerar_base.py` → Script Python para gerar a base  
-- `chamados_ti.csv` → Base fictícia gerada pelo script  
+- `chamados_ti.csv` → Base fictícia gerada pelo script 
+
+## 📩 Contato
+📧 E-mail: andreia33.ferreira@yahoo.com.br
+💼 LinkedIn: https://www.linkedin.com/in/andreiaaferreira 
 
 ## 📊 Como Gerar a Base  
 Se quiser rodar o script e gerar a base novamente:  
@@ -34,6 +38,5 @@ Se quiser rodar o script e gerar a base novamente:
 python gerar_base.py
 
 
-📩 Contato
-📧 E-mail: andreia33.ferreira@yahoo.com.br
-💼 LinkedIn: https://www.linkedin.com/in/andreiaaferreira
+
+
