@@ -24,10 +24,6 @@ Os dados foram gerados **ficticiamente** usando um script Python.
 - `gerar_base.py` → Script Python para gerar a base  
 - `chamados_ti.csv` → Base fictícia gerada pelo script 
 
-## 📩 Contato
-📧 E-mail: andreia33.ferreira@yahoo.com.br
-💼 LinkedIn: https://www.linkedin.com/in/andreiaaferreira 
-
 ## 📊 Como Gerar a Base  
 Se quiser rodar o script e gerar a base novamente:  
 1. Instale as bibliotecas necessárias:  
@@ -40,5 +36,9 @@ Se quiser rodar o script e gerar a base novamente:
  ## 🌐 Projetos Web     
  📌 **Tecnologias:** HTML, CSS, JavaScript  
 📌 **Descrição:** Landing page responsiva para apresentação de uma empresa.  
-🔗 **[Repositório no GitHub](https://github.com/Firstaces/animacaoeseducativas)**  
+🔗 **[Repositório no GitHub]((https://github.com/Firstaces/AnimacoesEducativas.git))**  
+
+## 📩 Contato
+📧 E-mail: andreia33.ferreira@yahoo.com.br
+💼 LinkedIn: https://www.linkedin.com/in/andreiaaferreira 
 
