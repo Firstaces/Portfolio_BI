@@ -1,3 +1,10 @@
+👋 Olá! Eu sou um profissional apaixonado por transformar dados em decisões.
+Com ampla experiência em Power BI, DAX e modelagem, venho construindo soluções que não apenas funcionam — mas fazem sentido para o negócio.
+
+No meu dia a dia, gosto de garantir que tudo esteja bem estruturado: dos relacionamentos entre tabelas à apresentação final no dashboard. E quando surge um desafio, gosto de ser a pessoa que ajuda a resolver, seja com performance, lógica ou visual.
+
+Aqui neste portfólio você vai encontrar alguns exemplos do meu trabalho e da forma como penso dados.
+
 # 📊 Painel de Chamados TI
 
 ![Painel Chamados TI](Painel.png)
